@@ -418,6 +418,9 @@ DB38.418				P-418	TAGTGTCGGATC	avia			DB38		DB38.418		HiKapa			10.0		GGACTACHVGG
 DB38.419				P-419	CTGAGCTCTGCA	avia			DB38		DB38.419		HiKapa			10.0		GGACTACHVGGGTWTCTAAT	consortium		stool							manual_rotem_8				CD2	
 DB38.420				P-420	CTTCGACTTTCC	avia			DB38		DB38.420		HiKapa			10.0		GGACTACHVGGGTWTCTAAT	consortium		stool							manual_rotem_8				UC5	
 DB38.421				P-421	GTCATAAGAACC	seker			DB38		DB38.421		HiKapa			3.0		GGACTACHVGGGTWTCTAAT	human		stool						SK1506	manual4_rotem_4				SK1506	
+DB38.422				P-422	GTCCGCAAGTTA	BGI			DB38		DB38.422		HiKapa					GGACTACHVGGGTWTCTAAT	human													HM874	
+DB38.423				P-423	CGTAGAGCTCTC	BGI			DB38		DB38.423		HiKapa					GGACTACHVGGGTWTCTAAT	human													vel lab isol	
+DB38.424				P-424	CCTCTGAGAGCT	BGI			DB38		DB38.424		HiKapa					GGACTACHVGGGTWTCTAAT	human													TUM-5	
 DB38.425				P-425	CCTCGATGCAGT	avia			DB38		DB38.425		TAKARA			5.0		GGACTACHVGGGTWTCTAAT	consortium		stool							manual_gilat_takara				health_4	
 DB38.426				P-426	GCGGACTATTCA	avia			DB38		DB38.426		TAKARA			5.0		GGACTACHVGGGTWTCTAAT	consortium		stool							manual_gilat_takara				healthy_2_v2	
 DB38.427				P-427	CGTGCACAATTG	avia			DB38		DB38.427		TAKARA			5.0		GGACTACHVGGGTWTCTAAT	consortium		stool							manual_gilat_takara				healthy_5	
